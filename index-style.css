@@ -1,0 +1,53 @@
+.body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 150%;
+  color: #333;
+  background-color: rgba(180, 189, 190, 0.746);
+ }
+ 
+ .container {
+   background-color:  rgba(169, 174, 177, 0.774);
+   color:#333;
+   float: left;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 2cm;
+   margin-top: 2cm;
+   margin-right: 2.5cm;
+   margin-bottom: 3cm;
+  }
+ 
+ #image {
+  width: 350px;
+  height: 350px;
+ }
+ 
+ .textwrap {
+  float:left;
+  margin: 10px;
+ }
+ 
+ .fa {
+     padding: 10px;
+     font-size: 30px;
+     width: 30px;
+     text-align: left;
+     text-decoration: none;
+     border-radius: 40%;
+     color: azure;
+   }
+ 
+   .row-1 {
+     margin-top: 1cm;
+     margin-left: 5mm;
+     border-bottom: 1px solid black;
+    }
+  
+ 
+   .navbar h1 {
+     margin-left: 5mm;
+   }
+ 
+ .collapse.navbar-collapse {
+   margin-right: 5mm;
+ }

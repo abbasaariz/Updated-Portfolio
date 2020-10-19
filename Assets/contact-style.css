@@ -1,0 +1,54 @@
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 150%;
+  color: #333;
+  background-color: rgba(180, 189, 190, 0.746);   
+}
+
+.form-group {
+   margin-left: 5mm;
+   margin-top: 5mm;
+}
+
+.container-md {
+   background-color: rgba(174, 179, 182, 0.774);
+   color:#333;
+   float: left;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 2cm;
+   margin-top: 2cm;
+   margin-right: 2cm;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 40%;
+    color: azure;
+  }
+
+  .row-1 {
+    margin-top: 1cm;
+    margin-left: 5mm;
+    border-bottom: 1px solid black;
+    }
+
+
+  .navbar h1 {
+    margin-left: 5mm;
+  }
+
+.collapse.navbar-collapse {
+   margin-right: 5mm;
+}
+
+.btn-secondary {
+    margin-left: 4mm;
+    font-size: large;
+    margin-bottom: 1cm;
+}
